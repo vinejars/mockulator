@@ -1,0 +1,45 @@
+#text{
+  border-radius: 30px;
+  box-shadow: 3px 3px 14px black;
+  height: 20px;
+  width: 400px;
+}
+
+#input-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
+    padding-top: 100px;
+}
+
+#mockulate {
+box-shadow: 0px 0px 10px -1px #b8b8b8;
+	box-shadow: 0px 0px 10px -1px #b8b8b8;
+	background-color:#ffffff;
+  border-radius: 15px;
+	border:1px solid #000000;
+	display:inline-block;
+	color:#000000;
+	font-size:14px;
+  font-family: 'Cutive Mono', monospace;
+  margin-top: 35px;
+  }
+
+#mockulate:hover {
+	background-color:#f0f0f0;
+}
+
+label{
+  font-size: 20px;
+}
+
+#return-text{
+  text-align: center;
+  margin-top: 100px;  
+  font-family: 'Cutive Mono', monospace;
+  margin: auto;
+  width: 80%;
+  padding-top: 30px;
+}
